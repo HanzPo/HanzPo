@@ -4,7 +4,7 @@ I love learning languages (for both humans & computers), developing new skills, 
 
 I am currently:
 - a STEM & Envirionment SHSM student at Francis Libermann Catholic High School working towards my OSSD;
-- learning how to analyze data using Python, matplotlib, pandas, and scikit-learn;
+- learning about web development with HTML, CSS, JavaScript, and React;
 - looking for internships to further my skills and build experience.
 
 Please feel free to contact me at <hanznathanpo@gmail.com> or through my [Linkedin Profile](https://www.linkedin.com/in/hanznathanpo/).
