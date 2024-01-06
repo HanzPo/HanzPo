@@ -7,4 +7,4 @@ I am currently:
 - learning about web development with HTML, CSS, JavaScript, and React;
 - looking for internships to further my skills and build experience.
 
-Please feel free to contact me via hanznathanpo (at) gmail.com or through my [Linkedin Profile](https://www.linkedin.com/in/hanznathanpo/).
+Please feel free to contact me via <hanznathanpo@gmail.com> or through my [Linkedin Profile](https://www.linkedin.com/in/hanznathanpo/).
