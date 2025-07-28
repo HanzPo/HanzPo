@@ -1,5 +1,7 @@
 <img src="images/1x/V2.png"/>
 
-I am currently a computer science student at the University of Waterloo.
+hey i'm hanz :)
 
-Please feel free to contact me via <hanznathanpo@gmail.com> or through my [Linkedin Profile](https://www.linkedin.com/in/hanznathanpo/).
+i study cs at waterloo
+
+you can reach me through hanznathanpo at gmail.com, on [twitter/X](https://x.com/hanznathanpo), or through [linkedin](https://www.linkedin.com/in/hanznathanpo/).
