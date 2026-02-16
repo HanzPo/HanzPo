@@ -1,6 +1,4 @@
-<img src="images/1x/V2.png"/>
-
-hey i'm hanz :)
+hey i'm hanz
 
 i study cs at waterloo
 
